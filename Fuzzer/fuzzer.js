@@ -3,6 +3,7 @@ var fs = require('fs')
 var path = require('path')
 var recursive = require("recursive-readdir");
 
+
 //get all java files
 
 var commitHash = process.env.SHA1;
